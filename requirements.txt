@@ -1,1 +1,12 @@
-
+python-dotnev
+groq
+llama-index
+streamlit
+nltk
+langchain-groq
+langchain_community
+requests
+beautifulsoup4
+llama-index-llms-langchain
+sentence-transforms
+llama_index-embedding-huggingace
